@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+h1{
+    /* Vamos Aplicar a Letra Arial  */
+    font-family: "arial";
+    /* Vamos lterar o tamanho do texto para 20pt */
+    font-size: 20pt;
+    /* vamos alterar a cor da letra  */
+    color: rgb(228, 212, 212);
+    /* alinhar o texto ao centro na  horizontal */
+    text-align: center;
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15pt;
+    color: tomato;
+    text-align: center;
+    /* Aplicar Margem ao Lado  Esquerdo e Direito
+    Isso Fara Com Que o Texto Fique Mais Ajustado 
+    ao Centro da Tela */
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+img{
+
+/* alterar a alargura com o comando width */
+width: 100%;
+
+height: auto;
+
+}
